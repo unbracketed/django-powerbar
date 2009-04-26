@@ -1,0 +1,2 @@
+-e git+http://github.com/alex/django-filter.git#egg=django-filter
+-e git+http://github.com/toastdriven/django-haystack.git#egg=django-haystack
